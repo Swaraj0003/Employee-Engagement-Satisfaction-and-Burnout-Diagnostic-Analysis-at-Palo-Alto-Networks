@@ -1,0 +1,11 @@
+{
+  "employee_count": 1470,
+  "column_count": 36,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "mean_engagement_index": 57.44,
+  "mean_work_life_balance_index": 58.71,
+  "overtime_percentage": 28.3,
+  "combined_warning_percentage": 8.57,
+  "attrition_rate_percentage": 16.12
+}
